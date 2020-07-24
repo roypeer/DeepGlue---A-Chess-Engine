@@ -10,16 +10,17 @@ See also - Jupyter notebook...
 
 
 class ChessBoardTreeNode:
-    def __init__(self, board):
+    def __init__(self, board, is_black = False):
         self.board = board
         self.children_nodes = []
-        self.score = get_board_score(board)
+        self.score = get_board_score(board, is_black)
+        self.is_black = is_black
 
     def generate_next_moves(self):
         for move in list(self.board.legal_moves):
             new_board = copy.deepcopy(self.board)
             new_board.push(move)
-            self.children_nodes.append(ChessBoardTreeNode(new_board))
+            self.children_nodes.append(ChessBoardTreeNode(new_board, self.is_black))
 
 
 class MiniMaxer:
@@ -50,8 +51,8 @@ class MiniMaxer:
         return max(self.board_node.children_nodes, key= lambda child: self.find_score_recursive(child, is_my_move = False))
 
 # Assumes I am white and it is my turn
-def roy_engine(board, n_moves_forward):
-    minimax = MiniMaxer(ChessBoardTreeNode(board), n_moves_forward)
+def roy_engine(board, n_moves_forward, is_black):
+    minimax = MiniMaxer(ChessBoardTreeNode(board, is_black), n_moves_forward)
     minimax.construct_minimax_tree(minimax.board_node, minimax.n_moves_forward)
     best_move = minimax.find_best_move()
     return best_move.board
@@ -71,7 +72,7 @@ if __name__ == "__main__":
     ROY_MOVES_FORWARD = 3
 
     for turns in range(10):
-        board = roy_engine(board, ROY_MOVES_FORWARD)
+        board = roy_engine(board, ROY_MOVES_FORWARD, is_black = False)
         print("ROY'S MOVE: \n")
         print(board)
         print("----------\n\n")
