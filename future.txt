@@ -1,0 +1,5 @@
+TODO:
+
+- Upload to git?
+- Alpha-beta pruning
+- Give knight 3.0001 
