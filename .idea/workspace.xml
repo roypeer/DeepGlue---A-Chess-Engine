@@ -2,9 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc34e6ef-f1e9-4e75-b686-fbe80d7d4654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/IDLE (Python GUI) - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/IDLE (Python GUI).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/IPython Notebook - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/IPython Notebook.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/IPython Qt Console.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/Qt4 Assistant.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/Qt4 Demo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/Qt4 Designer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/Qt4 Linguist.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/Spyder (light).exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/Spyder.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/WinPython Command Prompt.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/WinPython Control Panel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/WinPython Interpreter.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_bsddb.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_ctypes_test.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_elementtree.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_msi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_sqlite3.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_testcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/_tkinter.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/py.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/pyc.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/tcl85.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/tclpip85.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/tk85.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/DLLs/winsound.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/Microsoft.VC90.CRT.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/NEWS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/msvcm90.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/msvcp90.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/msvcr90.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/python27.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/pythoncom27.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/pythoncomloader27.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/pywintypes27.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinPython-64bit-2.7.10.2/python-2.7.10.amd64/qt.conf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,12 +169,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/engine.py</url>
-          <line>77</line>
+          <line>73</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/engine.py</url>
-          <line>58</line>
+          <line>55</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
